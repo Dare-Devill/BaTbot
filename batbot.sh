@@ -5,10 +5,10 @@ VERSION="1.2"
 
 # default token and chatid
 # or run BaTbot with option: -t <token>
-TELEGRAMTOKEN="<Your Bot Token>";
+TELEGRAMTOKEN="<1402275514:AAGPBjGShyL9m5ZBRVBkQooiZDPLRBtvHO0>";
 
 # how many seconds between check for new messages
-# or run Batbot with option: -c <seconds>
+# or run Batbot with option: -c <1>
 CHECKNEWMSG=5;
 
 # Commands
