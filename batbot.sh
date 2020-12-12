@@ -26,6 +26,13 @@ botcommands=(
 	["/hello"]='echo Hi @FIRSTNAME, pleased to meet you :)'
 
 	["/uptime"]="uptime"
+        
+        ["/Start"]='echo Hey There how can i help you. Press /Contact to contact my master @Pratham_vai'
+
+        ["/Contact"]='1. Want To Do Chat With My Master @Pratham_vai /n
+                      2. Want To Spam My Master's Inbox /n
+                      3. Want To Request Something /n
+                      4. Just For Asking Random Questions '
 
 )
 
